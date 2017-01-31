@@ -1,0 +1,23 @@
+{
+  "name": "IFTTT",
+  "version": "1.0.0",
+  "description": "IFTTT Plugin for MeetFranz",
+  "main": "index.js",
+  "author": "Gabriel Vasques (vasques16) <vasquesgamer16@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://ifttt.com/login",
+    "serviceName": "IFTTT",
+    "message": "IFTTT Plugin for MeetFranz",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
